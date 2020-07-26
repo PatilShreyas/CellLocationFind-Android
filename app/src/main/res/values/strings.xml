@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cell Location Finder</string>
+    <string name="text_current_location">Current Location:</string>
+    <string name="text_default_location">0.0, 0.0</string>
+    <string name="button_text_find">Find Location using Cell Tower</string>
+    <string name="text_location_format">%f, %f</string>
+</resources>
