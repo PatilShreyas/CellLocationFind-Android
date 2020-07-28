@@ -21,4 +21,4 @@ Keep your API key here and just sync your project with Gradle files and run this
 ![](screenshot/app.gif)
 
 ## Article
-Detailed article on this is available [here](#)
+Detailed article on this is available [here](https://medium.com/scalereal/%EF%B8%8Faccessing-device-location-using-sim-card-%EF%B8%8F-6cdb15645bef)
